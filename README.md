@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
   ## Resources
-  - Data Sources:  schools_complete.csv, students_complete.csv, clean_students.csv
+  - Data Sources:  city_data.csv, ride_data.csv, clean_students.csv
   - Software:  Anaconda 4.9.2, Jupyter Notebook 6.0.3 , Python 3.7.6 
   - Using:  Pandas, NumPy
   

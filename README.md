@@ -75,7 +75,7 @@ Urban       $16.57
 Not surprisngly the average fare per driver was highest in Rural cities, followed by Suburban cities with Urban cities seeing the lowest fare per driver.  In further analysis it would be interesting, if we had access to driver ID data associated with each ride, to analyze the total fares per driver.
 
 To view these conclusions collectively, please refer to the following summary DataFrame.
-![Original_District_Summary1](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Original_District_Summary1.png)
+![City_Type_Summary_DF](https://github.com/PatriciaCB1/PyBer_Analysis/blob/main/City_Type_Summary_DataFrame.png)
 
 
 

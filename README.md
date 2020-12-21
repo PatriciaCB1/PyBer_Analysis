@@ -69,7 +69,9 @@ As hypothesized when exploring total fares, the Average Fare Per Ride is highest
 ### Average Fare Per Driver
 
 Rural       $55.49
+
 Suburban    $39.50
+
 Urban       $16.57
 
 Not surprisngly the average fare per driver was highest in Rural cities, followed by Suburban cities with Urban cities seeing the lowest fare per driver.  In further analysis it would be interesting, if we had access to driver ID data associated with each ride, to analyze the total fares per driver.

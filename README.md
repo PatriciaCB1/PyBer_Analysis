@@ -76,7 +76,7 @@ Not surprisngly the average fare per driver was highest in Rural cities, followe
 
 To view these conclusions collectively, please refer to the following summary DataFrame.
 
-![City_Type_Summary_DF](https://github.com/PatriciaCB1/PyBer_Analysis/blob/main/City_Type_Summary_DataFrame.png)
+![City_Type_Summary_DF](https://github.com/PatriciaCB1/PyBer_Analysis/blob/main/Analysis/City_Type_Summary_DataFrame_2.png)
 
 
 

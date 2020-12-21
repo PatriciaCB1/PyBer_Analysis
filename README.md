@@ -86,7 +86,7 @@ The following chart displays the difference in total fares by city type for Urba
 
 ![Total_Fares_By Week_By_City_Type](https://github.com/PatriciaCB1/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
 
-This line chart shows us the following:
+The line chart illustrates the following:
 - In the months spanning January 1st through April 29th across the specified years, Total Fares for Urban and Suburban cities were highest at the start of the last week of February.  The start of the last week of February was the second highest in terms of Total Fares for Rural cities (clearly a good week for PyBer for all city types.
 - Rural cities' highest Total Fares was at the very start of April
 - For Urban and Suburban cities the first week of January saw the lowest total fares.  For Rural cities the lowest Total Fares occured mid March.

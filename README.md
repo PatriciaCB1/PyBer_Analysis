@@ -83,7 +83,7 @@ To view these conclusions collectively, please refer to the following summary Da
 
 The following chart displays the difference in total fares by city type for Urban, Suburban and Rural cities for the specified period. This is a visual representation of our findings from Total Fares By City Type as detailed above.
 
-![Original_District_Summary1](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Original_District_Summary1.png)
+![Total_Fares_By Week_By_City_Type](https://github.com/PatriciaCB1/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
 
 ## Recommendations to the CEO
 
